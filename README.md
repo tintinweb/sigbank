@@ -98,7 +98,9 @@ here's an example:
 <details>
   <summary style='font-size:12pt'>🔸 How to dump the database into a well formed file-system structure?</summary>
 
-TBD
+```
+⚡ ⇒ _utils/exportToFs.js
+```
 
 </details>
 
