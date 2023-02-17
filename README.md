@@ -17,11 +17,11 @@ Best effort, no guarantees on accuracy & completeness. Just signatures, lot's of
 [Latest Snapshot](https://github.com/tintinweb/sigbank/releases)
 
 ```
-Date:                 Feb 17 2023
-Database Size:                 96 MB
-Distinct Signatures:       924244
-Distinct SignatureHashes:  924117
-SignatureHash Collisions:     118
+Date:                  Feb 17 2023
+Database Size:               96 MB
+Distinct Signatures:       924.244
+Distinct SignatureHashes:  924.117
+SignatureHash Collisions:      118
 ```
 
 ## 🎓 Getting Started
