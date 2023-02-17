@@ -1,0 +1,1 @@
+createNFT((address,int8,uint32)[],string,(string,string)[],(string,string)[])

@@ -1,0 +1,1 @@
+createNewNftAuction(address,string,(uint32,uint32,uint64,uint128,uint128,uint128,address,address,address[],address,address,address[],uint32[],uint256,bool))

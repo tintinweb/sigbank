@@ -1,0 +1,2 @@
+automateEctoplasm(address,bool)
+setStake(uint64,address)

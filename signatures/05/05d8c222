@@ -1,0 +1,1 @@
+onERC1155BatchTransferred(address,address,uint256[],uint256[])

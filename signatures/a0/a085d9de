@@ -1,0 +1,1 @@
+mint(address,(string,uint256,bool,bool,string,string,uint256,uint256,string),(uint8,uint8,uint8,uint8,uint8),(bool,bool,bool,bool,bool),(uint8,uint256))

@@ -1,0 +1,1 @@
+CreateTreasurerProposal((uint,address,address,(bool,bool)[],address[],uint,bool,uint))

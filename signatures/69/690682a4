@@ -1,0 +1,1 @@
+checkSupportedInterfaces(address,bool,bytes4[])

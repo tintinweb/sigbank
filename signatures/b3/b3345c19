@@ -1,0 +1,1 @@
+cancelSaleBatch(address,uint256[],bool[])

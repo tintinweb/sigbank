@@ -1,0 +1,1 @@
+registerConsignment(uint8,address,address,address,uint256,uint256)

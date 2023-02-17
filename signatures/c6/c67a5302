@@ -1,0 +1,2 @@
+addCollectionPoolAddresses(address,address,address)
+submitTransferOffer(uint256,uint256,address)

@@ -1,0 +1,1 @@
+registerPartner(address,string,string,bytes,uint8,uint32,uint256)

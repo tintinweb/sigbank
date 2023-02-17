@@ -1,0 +1,1 @@
+testManyIntValues(int8,int32,int128,int256,uint8,uint32,uint128,uint256)

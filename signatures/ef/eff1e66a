@@ -1,0 +1,1 @@
+receiveRollupInfo((uint8,uint64,bytes32,bytes32,uint64,address),bytes,bytes32[])

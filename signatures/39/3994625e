@@ -1,0 +1,1 @@
+setDaemonTrusted(string,bool)

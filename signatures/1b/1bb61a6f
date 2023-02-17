@@ -1,0 +1,1 @@
+setVRFConfig((bytes32,address,uint64,uint32,uint16,uint32))

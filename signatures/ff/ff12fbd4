@@ -1,0 +1,1 @@
+actionIsAuthorized(address,address,bytes4)

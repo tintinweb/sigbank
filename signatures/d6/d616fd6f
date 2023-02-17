@@ -1,0 +1,1 @@
+createERC1155(address,string,string,(uint8,address[],uint256[],uint256[]),(uint256,string,uint256,address[],uint256[])[])

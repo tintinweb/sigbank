@@ -1,0 +1,1 @@
+add_pool(address,uint256,address,bytes32,uint256,uint256,bool,bool,string)

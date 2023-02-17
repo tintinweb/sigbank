@@ -1,0 +1,1 @@
+RegisterNewWrite(address,string,uint8[])

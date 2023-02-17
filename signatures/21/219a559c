@@ -1,0 +1,1 @@
+makeFiatBid(address,string,uint128,address)

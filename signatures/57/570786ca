@@ -1,0 +1,1 @@
+createAndMintSingleTokenWithRoyalty((string,string,string),string[],(address,uint96),(address,uint96)[])

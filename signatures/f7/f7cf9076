@@ -1,0 +1,1 @@
+safeMintWithSignature(address,string,bytes)

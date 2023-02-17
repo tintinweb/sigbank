@@ -1,0 +1,1 @@
+addPermissionsToRole(string,(string,string[])[],bool)

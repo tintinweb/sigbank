@@ -1,0 +1,2 @@
+recoverAddr(bytes32,bytes)
+resetCurrentBet()

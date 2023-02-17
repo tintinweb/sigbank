@@ -1,0 +1,1 @@
+on_nft_transfer(address,address,uint256)

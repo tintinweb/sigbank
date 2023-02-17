@@ -1,0 +1,1 @@
+mergeDocument(string,(uint32,uint,address,address,string,string,bytes32,bytes,bytes))

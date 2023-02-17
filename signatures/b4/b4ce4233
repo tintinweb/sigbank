@@ -1,0 +1,1 @@
+createWrappedERC721Token(string,string,string,uint32,bytes32,bytes)

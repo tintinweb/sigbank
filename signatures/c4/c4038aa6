@@ -1,0 +1,1 @@
+addERC20Pool(address,address,bool)

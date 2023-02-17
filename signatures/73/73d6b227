@@ -1,0 +1,1 @@
+makeERC1155BatchTransfer(address,uint256,address[],uint256[])

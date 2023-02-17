@@ -1,0 +1,1 @@
+registerPlayerWithNew(address,address,string,uint16[],uint256[])

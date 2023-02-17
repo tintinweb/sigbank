@@ -1,0 +1,1 @@
+onEIP1155UBatchReceived(address,address,bytes32[],bytes)

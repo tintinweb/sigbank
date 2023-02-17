@@ -1,0 +1,1 @@
+readMultipleTypes2((string,uint16,uint256,bytes4,bool),string,bool,bytes16)

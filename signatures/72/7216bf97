@@ -1,0 +1,1 @@
+setClass((string,uint16),int8,uint256)

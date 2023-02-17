@@ -1,0 +1,1 @@
+multiERC1155Transfer(address,address[],(address,uint256[],uint256[])[])

@@ -1,0 +1,1 @@
+addOrUpdateERC20PaymentMethod(string,address,address)

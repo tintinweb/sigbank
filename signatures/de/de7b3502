@@ -1,0 +1,1 @@
+setNftStatus(address,bool,address,uint256,uint256)

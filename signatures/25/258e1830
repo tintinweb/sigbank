@@ -1,0 +1,1 @@
+create_collection(string,uint256,bytes,string[],uint256)

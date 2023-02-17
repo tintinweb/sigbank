@@ -1,0 +1,1 @@
+transferERC1155AssetsToWallet(string,bytes32,address,uint256)

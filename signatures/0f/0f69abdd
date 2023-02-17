@@ -1,0 +1,1 @@
+getVoteByPollIdAndAddress(bytes32,address)

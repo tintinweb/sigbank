@@ -1,0 +1,1 @@
+setAirdroptPermits(address[],bytes4[],bool[])

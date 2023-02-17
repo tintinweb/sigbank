@@ -1,0 +1,1 @@
+batchMintMultipleReceivers(address[],string[],(address,uint96)[])

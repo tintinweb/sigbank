@@ -1,0 +1,1 @@
+changeVoteParam(bool,bytes4,uint8,uint32,uint32,uint32,uint32)

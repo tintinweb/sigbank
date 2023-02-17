@@ -1,0 +1,1 @@
+setCampaign(address,(uint,uint,uint),(uint,uint,uint),string,bool,bool,bool,address,address)

@@ -1,0 +1,1 @@
+batchChangeMembersStatus(address[],bytes32[],bool[])

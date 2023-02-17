@@ -1,0 +1,1 @@
+addVerificationConfig(address,(address,bytes32,uint))

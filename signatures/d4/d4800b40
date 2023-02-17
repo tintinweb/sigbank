@@ -1,0 +1,2 @@
+createProfile(bytes32)
+setBidDif(uint256)

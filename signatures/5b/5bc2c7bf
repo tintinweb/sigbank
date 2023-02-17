@@ -1,0 +1,1 @@
+batchSetApprovalForRegistryOperator(address,address[],bool[])

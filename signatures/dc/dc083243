@@ -1,0 +1,1 @@
+grantRoleBySignature(bytes32,address,bytes)

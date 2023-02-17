@@ -1,0 +1,1 @@
+VoteProposalOffChain(uint8,bytes32,bytes32,address,uint256,bool,string)

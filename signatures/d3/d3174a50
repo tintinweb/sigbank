@@ -1,0 +1,1 @@
+onERC721Bind(address,address,address,uint256,uint256,bytes)

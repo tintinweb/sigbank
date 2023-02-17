@@ -1,0 +1,1 @@
+addLotData(address,uint64,string,string,string,string,string,string[],string)

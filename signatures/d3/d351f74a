@@ -1,0 +1,1 @@
+createERC721(address,uint8,string,string,uint128,uint128,uint128,string)

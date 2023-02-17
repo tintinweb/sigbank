@@ -1,0 +1,1 @@
+testArrayOfTuples((uint256,string,string,address,bool,uint8)[])

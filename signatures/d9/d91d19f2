@@ -1,0 +1,1 @@
+createPerpetual(uint8,bytes4[],bytes4[],int128[],int128[],int128[],uint256)

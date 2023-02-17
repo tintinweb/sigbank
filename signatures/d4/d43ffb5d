@@ -1,0 +1,1 @@
+createOmniRecord((address,uint64,address,bytes,bytes,bytes,string,string),bytes32,bytes)

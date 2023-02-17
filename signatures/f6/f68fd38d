@@ -1,0 +1,1 @@
+validateHashSignature(bytes32,address,bytes)

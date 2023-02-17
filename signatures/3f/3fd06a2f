@@ -1,0 +1,2 @@
+SetDelay(bool,uint256)
+claimFutureLandsWithAmount(address,uint256)

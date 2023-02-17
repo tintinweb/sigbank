@@ -1,0 +1,1 @@
+register_manyto_one(address,address[])

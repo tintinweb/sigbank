@@ -1,0 +1,1 @@
+emitTransfer(bytes4,address,address,bytes,uint256,bytes4,bytes4)

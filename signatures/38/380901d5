@@ -1,0 +1,1 @@
+configureCharacters(uint8,uint32,(string,string,string,string,uint256,uint256,string[][])[])

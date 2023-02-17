@@ -1,0 +1,1 @@
+RegisterChargingStation(uint64,string,string,uint8,string,uint8)

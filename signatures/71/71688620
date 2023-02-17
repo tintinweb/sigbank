@@ -1,0 +1,1 @@
+fetch((address,int)[],(address,int)[],(address,uint)[])

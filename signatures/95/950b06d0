@@ -1,0 +1,1 @@
+setApprovalForAllMultiple(address[],address[],bool[])

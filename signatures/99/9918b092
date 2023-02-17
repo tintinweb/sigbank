@@ -1,0 +1,1 @@
+waitlistMint(address,uint256,bytes32[])

@@ -1,0 +1,1 @@
+initialize((uint48,uint64,bool,address,uint256,uint256,string[],uint8),address)

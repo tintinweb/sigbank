@@ -1,0 +1,1 @@
+deployExternalCollection((string,string,uint256,bytes,address)[],(address,string,uint256,address,bytes,address))

@@ -1,0 +1,1 @@
+isReady((bool,string,string,string,(uint16,uint16,string)[]),(string,string,bytes))

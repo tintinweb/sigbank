@@ -1,0 +1,1 @@
+bulkPurchase((uint8,uint256,uint,bytes)[],address,address,bool)

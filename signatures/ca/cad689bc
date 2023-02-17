@@ -1,0 +1,1 @@
+safeMint(address,uint64,bool,string)

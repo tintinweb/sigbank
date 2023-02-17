@@ -1,0 +1,2 @@
+initialiseRequest(address,uint256,bytes32)
+isLuckyUser(address,uint256)

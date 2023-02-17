@@ -1,0 +1,1 @@
+claimBatch(string[],bool[],bytes32[][],address[])

@@ -1,0 +1,1 @@
+setBulkERC20TokenDetails(string[],address[],bool[],uint128[])

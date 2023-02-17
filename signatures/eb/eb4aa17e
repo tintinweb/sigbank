@@ -1,0 +1,1 @@
+write((uint256,string,string,uint256),(uint256,address,bytes)[],(uint256,bytes32,address,uint256,bytes))

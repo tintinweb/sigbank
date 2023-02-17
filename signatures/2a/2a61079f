@@ -1,0 +1,1 @@
+addIssuerToRegistry(address,bool,bytes32,string)

@@ -1,0 +1,1 @@
+grantRoleByArray(bytes32[],address)

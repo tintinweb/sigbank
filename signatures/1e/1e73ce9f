@@ -1,0 +1,1 @@
+setApprovalForAllByOperator(address,address,bool)

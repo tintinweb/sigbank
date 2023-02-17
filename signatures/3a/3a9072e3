@@ -1,0 +1,1 @@
+editBankAccount(string,string,string,bool,bytes,bytes32)

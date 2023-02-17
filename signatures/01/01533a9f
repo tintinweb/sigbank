@@ -1,0 +1,1 @@
+canMintMany((address,uint64,uint16[]),bytes)

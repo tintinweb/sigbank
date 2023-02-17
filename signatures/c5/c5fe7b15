@@ -1,0 +1,1 @@
+whitelistRedeem((address,bool,bool,uint),bytes)

@@ -1,0 +1,2 @@
+mintWithERC20Token(address,uint256)
+multiCancel(uint256[])

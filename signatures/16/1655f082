@@ -1,0 +1,1 @@
+registerNFTCollection(uint256,uint256,string,address,string,bool,bool,uint256,string)

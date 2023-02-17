@@ -1,0 +1,1 @@
+validate_captcha(bytes32,bytes32[])

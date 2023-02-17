@@ -1,0 +1,1 @@
+setERC1155RentalTerms(address,uint256,uint64,address,uint96,uint96,uint16,uint16,uint64)

@@ -1,0 +1,1 @@
+addStakeHolderBatch((uint,string,address,bool,(string,uint),uint,((uint,string,string,address,string),(string,uint),uint,uint,(uint,uint,string,uint,(string,uint))[])[])[])

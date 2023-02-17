@@ -1,0 +1,1 @@
+setApprovalForAllCustom(address,address,bool)

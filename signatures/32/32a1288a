@@ -1,0 +1,1 @@
+verifyTypedSig(address,address,string,string,bytes)

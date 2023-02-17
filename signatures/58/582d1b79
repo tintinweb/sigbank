@@ -1,0 +1,1 @@
+createCampaign((string,uint)[],(uint,string,string,uint,uint,string[],uint,string,address))

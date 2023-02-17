@@ -1,0 +1,1 @@
+createNFTMintSaleMultiple(string,string,string,address,uint16,uint16,bool,uint32,uint32,(uint128,uint32,uint32,uint32)[],address)

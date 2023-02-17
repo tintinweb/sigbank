@@ -1,0 +1,1 @@
+registerPromissoryNoteTicket(uint8,uint64,bytes32)

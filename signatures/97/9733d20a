@@ -1,0 +1,1 @@
+setExcludedFromFeeForSending(address,bool)

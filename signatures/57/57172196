@@ -1,0 +1,2 @@
+getWhitelistID(address)
+updateServiceMinMine(uint256)

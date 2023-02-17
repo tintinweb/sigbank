@@ -1,0 +1,1 @@
+registerTokenSetup(address,uint8,bool,bool,bool,bool,address[])

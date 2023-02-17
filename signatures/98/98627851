@@ -1,0 +1,1 @@
+registerERC20(bytes20,address,uint128)

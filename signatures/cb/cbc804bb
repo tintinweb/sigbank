@@ -1,0 +1,1 @@
+setConfig((string,uint256,uint256)[],(uint64,bool),(address,address,address,uint96,string))

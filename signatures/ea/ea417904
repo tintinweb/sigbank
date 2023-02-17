@@ -1,0 +1,1 @@
+getETHPermission(address,address,bytes4)

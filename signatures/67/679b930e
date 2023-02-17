@@ -1,0 +1,1 @@
+depolyERC20(address,string,string,uint8,bool,uint256)

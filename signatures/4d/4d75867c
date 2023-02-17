@@ -1,0 +1,1 @@
+setIsAccountBlacklisted(address,bool)

@@ -1,0 +1,1 @@
+setTransferRule(address,(uint16,uint16,uint96,uint40,uint16,uint16))

@@ -1,0 +1,1 @@
+setNftMultiErc721BlackList(address,uint256[],bool)

@@ -1,0 +1,1 @@
+addInvestorToRegistry(address,bool,bytes32,string)

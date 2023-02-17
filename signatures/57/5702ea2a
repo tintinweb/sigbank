@@ -1,0 +1,2 @@
+setVirtualToken(uint256,address)
+updateUserInterconnectBalances(address[],address,uint256[],bool[])

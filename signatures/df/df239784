@@ -1,0 +1,1 @@
+setApprovalForOwnerAndAdmin(address,bool)

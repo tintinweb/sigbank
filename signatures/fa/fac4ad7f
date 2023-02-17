@@ -1,0 +1,1 @@
+registerCitizen(bytes32[],uint24[],bytes32[],address[],string[],bytes3[])

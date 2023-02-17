@@ -1,0 +1,1 @@
+validateMint((uint128,uint128,uint128,uint32,uint32,uint32,address),(string,address,address,address,uint32,uint32,uint16,uint16,uint16,(uint16,(uint16,uint16)[])),(bytes32,bytes32[]),uint256,address,address,uint256,uint256,bytes)

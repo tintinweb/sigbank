@@ -1,0 +1,1 @@
+setBlockTicketSellFlagOnEvent(uint64,bool)

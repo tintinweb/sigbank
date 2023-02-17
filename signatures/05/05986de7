@@ -1,0 +1,1 @@
+authorizeMintWithCode(uint32,address,string,uint32,uint32,string)

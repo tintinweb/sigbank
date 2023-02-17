@@ -1,0 +1,1 @@
+setOwnerItemBatch(address,bytes32[],bytes[])

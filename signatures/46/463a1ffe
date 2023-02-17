@@ -1,0 +1,2 @@
+changeFeeRecipient(uint256,address)
+getHardcap()

@@ -1,0 +1,1 @@
+registerPoolWith3Assets(uint64,address,bytes,bytes,bytes)

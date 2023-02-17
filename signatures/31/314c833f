@@ -1,0 +1,1 @@
+createNftWithErc20WithFixedRate((string,string,uint256,string,bool),(uint256,string[],address[],uint256[],bytes[]),(address,address[],uint256[]))

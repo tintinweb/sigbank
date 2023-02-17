@@ -1,0 +1,1 @@
+createArbitraryNFT(address,string,string,string,uint256,address,uint256,bool)

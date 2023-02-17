@@ -1,0 +1,1 @@
+setFlowPermissions(address,address,bool,bool,bool,int96)

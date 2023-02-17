@@ -1,0 +1,1 @@
+pledge(uint16,uint8,bytes32[])

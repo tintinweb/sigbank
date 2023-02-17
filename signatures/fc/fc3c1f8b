@@ -1,0 +1,1 @@
+registerBeaconUpdateSubscription(address,bytes32,bytes,address,address)

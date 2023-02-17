@@ -1,0 +1,1 @@
+autoRetrieveERC721(address,string,address,address,uint256,bytes,uint256,bytes32)

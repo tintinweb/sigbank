@@ -1,0 +1,1 @@
+registerRoleGrantAnyone(bytes32,address)

@@ -1,0 +1,1 @@
+createNewERC721NFTContractWithBulkMint(address,address,string,string,bool)

@@ -1,0 +1,1 @@
+setFeeTypeExempt(address,bool,uint256)

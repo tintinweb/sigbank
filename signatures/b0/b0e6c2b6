@@ -1,0 +1,1 @@
+deregisterClaimTypeProvider(bytes32[],address)

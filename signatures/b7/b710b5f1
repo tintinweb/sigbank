@@ -1,0 +1,1 @@
+batchWhitelistFunction(address[],bytes4[],bool[])

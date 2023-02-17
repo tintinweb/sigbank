@@ -1,0 +1,1 @@
+registerColony(uint128,string,bytes32,address)

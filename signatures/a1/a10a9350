@@ -1,0 +1,1 @@
+bulkMintByArtistorAdmin(address,string[],string[],string[],string[],string,string,bool[])

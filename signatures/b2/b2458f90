@@ -1,0 +1,1 @@
+storeBetWithEVME(bytes,(int256,int256,uint256,address),(bool,address,uint256,uint256,uint256,uint256,uint256)[])

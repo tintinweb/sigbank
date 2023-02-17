@@ -1,0 +1,1 @@
+setTransferFeeExclude(address,bool)

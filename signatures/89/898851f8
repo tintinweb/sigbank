@@ -1,0 +1,1 @@
+safeMintSLDToResolver(address,string,string[],string[],bytes,address)

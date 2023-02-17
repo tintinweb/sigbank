@@ -1,0 +1,1 @@
+createCollectionAndMint(string,string,address,(address,uint256,uint256,string,uint96,bytes))

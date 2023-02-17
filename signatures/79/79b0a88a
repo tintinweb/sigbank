@@ -1,0 +1,1 @@
+addVehicle(address,uint64,string,string,uint8)

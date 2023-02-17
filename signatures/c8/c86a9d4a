@@ -1,0 +1,1 @@
+createNftItem(address,string,uint32,uint32,address,address[],uint32[])

@@ -1,0 +1,2 @@
+calculateEthReceived(uint256)
+setAggregatorPriceFeed(address)

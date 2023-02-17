@@ -1,0 +1,1 @@
+addWhitelistContractMiddleWare((address,bytes4[])[])

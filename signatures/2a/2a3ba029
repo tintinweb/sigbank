@@ -1,0 +1,1 @@
+createNewERC1155NFTContract(address,address,string,bool,bool)

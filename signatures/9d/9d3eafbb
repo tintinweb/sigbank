@@ -1,0 +1,1 @@
+getMixedTuple((string,bool,uint,address,bytes,bytes10)[],(string[],bool,address[],string,uint[],uint,address,bytes[],bytes10[]))

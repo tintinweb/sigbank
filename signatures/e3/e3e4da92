@@ -1,0 +1,1 @@
+create_product(string,string,uint16[],uint32[],uint16,address)

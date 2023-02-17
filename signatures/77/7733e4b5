@@ -1,0 +1,1 @@
+setBadge(uint256,bool,address,string,(uint8,address,uint256,uint256),address[])

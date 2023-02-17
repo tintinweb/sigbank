@@ -1,0 +1,1 @@
+approveBeforeFulfillBatch(address[],uint256,bytes,bool)

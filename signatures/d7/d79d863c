@@ -1,0 +1,1 @@
+create_riddle_for_sponsor(string,string,bytes32[],string)

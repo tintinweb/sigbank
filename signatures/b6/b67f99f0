@@ -1,0 +1,1 @@
+_setClass(address,string,int8)

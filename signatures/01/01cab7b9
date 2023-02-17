@@ -1,0 +1,1 @@
+addModuleVersion(string,(string,bytes4,(bytes32,string[]),(string,string,bytes4)[],(string,string,bytes4)[],uint8,bytes4,uint256))

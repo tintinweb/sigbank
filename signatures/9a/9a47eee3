@@ -1,0 +1,1 @@
+changeLEDBlinkPattern(uint256,uint256[])

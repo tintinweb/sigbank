@@ -1,0 +1,1 @@
+defineCollection((uint256,string,string,address,bool,uint8),(uint256,uint8,uint256,uint256,bool)[])

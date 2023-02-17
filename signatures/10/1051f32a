@@ -1,0 +1,1 @@
+addTrackToNftsContract(address,string,string,string,string,uint256,uint256,bool)

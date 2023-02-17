@@ -1,0 +1,1 @@
+registerAggregators(address,bool,address[],int32,int32)

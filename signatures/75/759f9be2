@@ -1,0 +1,1 @@
+batchMintPosts(address[],string[],string[],address[],uint256[],string[][],bytes32[],bytes32[],bytes32[],uint8[])

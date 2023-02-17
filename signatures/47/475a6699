@@ -1,0 +1,1 @@
+requestSpec(address,bytes32,uint256,address,bytes4,bytes)

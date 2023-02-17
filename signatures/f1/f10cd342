@@ -1,0 +1,1 @@
+batchMintSingleNFT(address,address,uint256,string)

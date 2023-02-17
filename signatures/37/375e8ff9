@@ -1,0 +1,1 @@
+claimBatch(address,(uint16,uint8,uint16,uint16)[],address,uint256,(bytes32[],uint256,uint256,address))

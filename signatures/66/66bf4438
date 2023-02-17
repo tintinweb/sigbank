@@ -1,0 +1,1 @@
+createOracle(bytes4,bytes4,address,int256)

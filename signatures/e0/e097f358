@@ -1,0 +1,1 @@
+addEnsContractMapping(string[],bytes32,address[],bool,bool)

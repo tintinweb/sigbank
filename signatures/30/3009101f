@@ -1,0 +1,2 @@
+getTotalDepositedBondAmountForMarket(address)
+nftsTokens(uint256)

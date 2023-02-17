@@ -1,0 +1,1 @@
+setWalletEligibility(uint8,address,bool)

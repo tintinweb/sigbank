@@ -1,0 +1,1 @@
+create_voting_session(string,uint256,string[],uint256)

@@ -1,0 +1,1 @@
+autoRetrieveERC20(address,string,address,address,uint256,uint256,bytes32)

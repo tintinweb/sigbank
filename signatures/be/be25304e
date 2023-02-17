@@ -1,0 +1,1 @@
+registerSubdomainContract(uint256,string,address,string,uint256,bool,address)

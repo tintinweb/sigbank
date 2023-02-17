@@ -1,0 +1,1 @@
+free_create_nft(address,string,bytes32[],bool,string,string)

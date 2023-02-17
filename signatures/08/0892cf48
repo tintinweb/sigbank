@@ -1,0 +1,1 @@
+bindLPAndAssetBatch(address[],address[],uint64[],bytes[],bytes[])

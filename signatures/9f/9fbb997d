@@ -1,0 +1,1 @@
+deployNativeCollection((string,string,uint256,bytes,address)[],(string,address,uint256,address))

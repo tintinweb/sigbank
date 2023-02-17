@@ -1,0 +1,1 @@
+isMintable(address,(uint256,uint64,bool,bool,bool,bool,string,bytes))

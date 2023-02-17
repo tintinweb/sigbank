@@ -1,0 +1,1 @@
+bulkAdd(address,(bytes32,address,uint)[],(bytes32,bytes,uint,bytes)[],bytes)

@@ -1,0 +1,1 @@
+addDonationRecipientsBatch(address[],string[],bool[])

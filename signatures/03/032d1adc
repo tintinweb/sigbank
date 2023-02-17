@@ -1,0 +1,1 @@
+addCombinedPermissionsToRole(string,string,(string,string[])[],(string,string[])[])

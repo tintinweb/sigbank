@@ -1,0 +1,1 @@
+deregisterVaultCalls(address[],bytes4[])

@@ -1,0 +1,1 @@
+configureEventCode(uint16,string,bool,uint16[])

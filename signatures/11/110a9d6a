@@ -1,0 +1,1 @@
+registerDID(bytes32,bytes32,address[],string,bytes32,string)

@@ -1,0 +1,1 @@
+activateContract(address,(address,string,uint,bool,bool,bool,uint,uint,uint),uint8,bytes32,bytes32)

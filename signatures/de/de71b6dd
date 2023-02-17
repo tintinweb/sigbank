@@ -1,0 +1,1 @@
+registerERC721ToTeam(string,address,uint256[])

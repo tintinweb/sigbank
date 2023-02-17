@@ -1,0 +1,1 @@
+getVoucherDigest((bytes32,uint16,address,bytes))

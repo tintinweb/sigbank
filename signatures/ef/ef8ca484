@@ -1,0 +1,1 @@
+registerMassERC721Each(address,bool,address,uint256[])

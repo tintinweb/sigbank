@@ -1,0 +1,1 @@
+validate((string,string,address,bytes,bool))

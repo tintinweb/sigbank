@@ -1,0 +1,1 @@
+validateBid(uint256,bool,string,address,uint8,bytes32,bytes32)

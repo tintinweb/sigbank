@@ -1,0 +1,1 @@
+setDonationRecipientBatch(uint256[],address[],string[],bool[])

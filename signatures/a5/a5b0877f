@@ -1,0 +1,1 @@
+mintBurnTransferERC1155V1((address,address,uint256,uint256,string)[],(address,address,uint256,uint256)[],(address,address,address,uint256,uint256)[],uint64,bytes)

@@ -1,0 +1,1 @@
+BETTING_register_bet(address,uint256,uint256,uint256,string,string)

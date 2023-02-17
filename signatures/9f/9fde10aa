@@ -1,0 +1,1 @@
+configureBlockedOperatorsAndHashes(address,address[],bool[],bytes32[],bool[])

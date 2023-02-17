@@ -1,0 +1,1 @@
+addBankAccount(string,string,string,bytes,bytes32,string)

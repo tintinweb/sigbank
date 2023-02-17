@@ -1,0 +1,1 @@
+setMintConfig((address,uint128,uint16,uint8))

@@ -1,0 +1,1 @@
+registerGlobalHook(uint8,address)

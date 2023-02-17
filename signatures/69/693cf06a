@@ -1,0 +1,1 @@
+setTargetPermission(bytes4,address,bool)

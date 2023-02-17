@@ -1,0 +1,1 @@
+setWhitelistContractWithTxOrigin(address[],address[],bool[])

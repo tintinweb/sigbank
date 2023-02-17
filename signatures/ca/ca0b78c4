@@ -1,0 +1,1 @@
+getSimpleTuple((string,bool,uint,address,bytes,bytes10))

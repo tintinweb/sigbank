@@ -1,0 +1,1 @@
+delegate_issueToken(address,bytes,string,uint256,uint256,uint256)

@@ -1,0 +1,1 @@
+setApprovalForAllFromToByAdmin(address,address,bool)

@@ -1,0 +1,1 @@
+on_transfer(address,address,uint256,bool,bool,bool)

@@ -1,0 +1,1 @@
+registerIdentityAndManagementKey(address,string,string,address,bytes)

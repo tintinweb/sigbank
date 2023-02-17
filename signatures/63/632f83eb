@@ -1,0 +1,2 @@
+mint(address,uint256,string,uint256,uint256,uint256,bytes)
+realWorldPlayerFromIndex(uint128)

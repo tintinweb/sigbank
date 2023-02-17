@@ -1,0 +1,2 @@
+getStakingReward(address)
+write_structure2((address,address,address,address,address,address))

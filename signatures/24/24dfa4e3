@@ -1,0 +1,2 @@
+setSplitFee(address,uint256)
+terminateSubscription()

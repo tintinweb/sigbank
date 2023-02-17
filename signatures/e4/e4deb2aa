@@ -1,0 +1,1 @@
+bootstrap(string,string,(uint160,uint96,address,address,bool,bool))

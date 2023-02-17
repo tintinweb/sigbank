@@ -1,0 +1,1 @@
+createEditionsCrowdfundWithERC20(address,(string,string,uint256,uint8),(address,uint256,address,uint8),(string,string,uint256),string,(uint256,uint256,bytes32)[])

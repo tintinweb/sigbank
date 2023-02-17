@@ -1,0 +1,1 @@
+checkContractSignature(bytes32,(uint32,address,address,bytes,bytes,uint,string),bytes)

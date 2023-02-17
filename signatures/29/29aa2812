@@ -1,0 +1,1 @@
+erc721BatchTransfer(address,address,uint256[])

@@ -1,0 +1,1 @@
+setAllowedMethod(address,bytes4,bool)

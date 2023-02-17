@@ -1,0 +1,1 @@
+mintAndTransferBatchWithSignature(((address,uint256,uint256,uint96,string),(uint256,uint256,address),(bytes32,bytes32,uint8))[])

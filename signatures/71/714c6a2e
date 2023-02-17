@@ -1,0 +1,1 @@
+postWithSigBatch((uint256,string,address,bytes,address,bytes,(uint8,bytes32,bytes32,uint256))[])

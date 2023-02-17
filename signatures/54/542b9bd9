@@ -1,0 +1,1 @@
+setERC721ListRequirement(address,uint256[],bool,uint256,uint256,uint256,uint256)

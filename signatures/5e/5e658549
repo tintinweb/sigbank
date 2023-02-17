@@ -1,0 +1,2 @@
+getTokenLiquidity(address)
+startAuction(address,bytes12)

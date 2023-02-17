@@ -1,0 +1,1 @@
+add_certificate_template(bytes32,string,string,string,uint256)

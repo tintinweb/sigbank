@@ -1,0 +1,1 @@
+batchCheckERC721Owner(address[],address[],uint256[][])

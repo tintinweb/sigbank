@@ -1,0 +1,1 @@
+setTicketSoldFlag(uint256,bytes32[],bool)

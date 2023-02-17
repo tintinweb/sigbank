@@ -1,0 +1,1 @@
+subjectIsAuthorizedFor(address,address,bytes4,bytes,uint256)

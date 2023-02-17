@@ -1,0 +1,1 @@
+batchMintAccount(address,uint256[],bytes[])

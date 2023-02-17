@@ -1,0 +1,2 @@
+getPaymentOf(address)
+setDistribution(address,address)

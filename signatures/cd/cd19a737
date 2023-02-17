@@ -1,0 +1,1 @@
+createWrappedERC20Token(string,string,string,uint32,bytes32,uint8,bytes)

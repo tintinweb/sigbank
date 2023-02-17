@@ -1,0 +1,1 @@
+setContractAuthorisation(bytes32,address,address,bool)

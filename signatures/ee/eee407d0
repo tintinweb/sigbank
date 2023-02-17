@@ -1,0 +1,1 @@
+createLoyalty(address,uint96,bool,(string,bytes)[],(string,uint256),(address[],uint256[]))

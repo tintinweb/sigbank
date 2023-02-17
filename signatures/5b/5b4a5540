@@ -1,0 +1,1 @@
+RegisterWithConfig((address,uint8,bytes32,bytes32)[],(address,uint,string,uint),uint256,address[])

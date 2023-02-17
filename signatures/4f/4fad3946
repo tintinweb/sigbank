@@ -1,0 +1,2 @@
+getFastCar(uint256)
+updatePost((string,string,string),uint256)

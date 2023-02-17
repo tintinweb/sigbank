@@ -1,0 +1,1 @@
+verify((address,address,address,bytes32,uint,uint,uint,uint),uint8,bytes32,bytes32)

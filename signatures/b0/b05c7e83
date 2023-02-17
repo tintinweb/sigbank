@@ -1,0 +1,1 @@
+initiate_contract(bytes32,string,uint256[],address,address,bytes32)

@@ -1,0 +1,1 @@
+registerValidator(bytes,(bytes,bytes),(uint248,uint8,bytes32,bytes32))

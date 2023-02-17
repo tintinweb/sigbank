@@ -1,0 +1,1 @@
+register_restaurant((string,string,string),string,bytes)

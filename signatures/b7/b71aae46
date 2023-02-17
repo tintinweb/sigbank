@@ -1,0 +1,1 @@
+registerAttestation(bytes32,address,address,address,uint64,uint8,bytes32,bytes32)

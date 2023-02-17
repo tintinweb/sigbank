@@ -1,0 +1,1 @@
+setEconomicsConfig(address,(address,uint,uint,uint256[],uint256[],bool))

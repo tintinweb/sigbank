@@ -1,0 +1,1 @@
+createFungible(address,string,string,uint256[],address[])

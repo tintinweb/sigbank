@@ -1,0 +1,1 @@
+createTokenSalted(string,string,string,bytes32)

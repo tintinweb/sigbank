@@ -1,0 +1,1 @@
+declareMintCoin(string,address,uint256)

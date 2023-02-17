@@ -1,0 +1,1 @@
+addStableTokenPriceConfig(address,string,address,uint256,bool)

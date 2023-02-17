@@ -1,0 +1,1 @@
+registerProduct(string,string,string,bytes32[])

@@ -1,0 +1,2 @@
+approveKyberProxyContract(address,bool)
+removeBetPair(uint256)

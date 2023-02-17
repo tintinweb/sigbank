@@ -1,0 +1,1 @@
+addTransferDefinition((string,address,string,string,bytes))

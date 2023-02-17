@@ -1,0 +1,1 @@
+addFunctionToContractMultiple(bytes4,address[],string[],string[][],address[][],uint256[][])

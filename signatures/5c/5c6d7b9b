@@ -1,0 +1,1 @@
+set_bank_account_details(address,(uint,string,address[][],uint256[][],bool[][]))

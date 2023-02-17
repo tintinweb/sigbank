@@ -1,0 +1,1 @@
+deployAsset((string,string,uint256,uint256,uint8,address,address,uint16[],bytes4[],bytes32))

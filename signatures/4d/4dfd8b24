@@ -1,0 +1,1 @@
+safeMintWithTokenIdNoConsecutiveTransfer(address,uint32,string,uint32)

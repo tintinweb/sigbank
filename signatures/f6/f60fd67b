@@ -1,0 +1,1 @@
+registerWithNFTOwnership(address,uint256,bytes32,string,bytes32,bytes32[])

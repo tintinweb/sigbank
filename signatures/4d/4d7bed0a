@@ -1,0 +1,1 @@
+createSubscription(uint96[],string,address,bool,bool,bool,bool,bool)

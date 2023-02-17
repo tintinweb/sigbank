@@ -1,0 +1,1 @@
+deployKaliERC20(string,string,string,address[],uint256[],bool,address)

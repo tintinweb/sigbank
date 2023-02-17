@@ -1,0 +1,1 @@
+verifySignature(bool,address,bytes24,bytes)

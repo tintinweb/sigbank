@@ -1,0 +1,1 @@
+mintItemsWithPermit(((address,string,string,string),bytes32,uint256,address[],uint256[])[],bytes[])

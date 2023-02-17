@@ -1,0 +1,2 @@
+buyOwnership(uint256,uint256)
+toggleFreeze()

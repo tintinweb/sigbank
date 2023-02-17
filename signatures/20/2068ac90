@@ -1,0 +1,1 @@
+registerPair(address,address,(address,address,uint8,bytes)[])

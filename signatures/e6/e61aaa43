@@ -1,0 +1,1 @@
+permit_sellTokenForToken(address,uint256,address,uint256,address,bytes32,bytes)

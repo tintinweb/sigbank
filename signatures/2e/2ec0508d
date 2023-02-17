@@ -1,0 +1,1 @@
+changePermissionMulti(address,address[],bytes32[],bool[])

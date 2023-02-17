@@ -1,0 +1,2 @@
+calculateMintingFee(address,uint256)
+getAmountOfMoney()

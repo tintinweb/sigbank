@@ -1,0 +1,1 @@
+setBatchPermission((bytes4,address,bool)[])

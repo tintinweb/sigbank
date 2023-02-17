@@ -1,0 +1,1 @@
+verifyTypedSignature(address,string,string,bytes)

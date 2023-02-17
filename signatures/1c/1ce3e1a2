@@ -1,0 +1,1 @@
+setIsFeeExcludeForAddress(address,bool)

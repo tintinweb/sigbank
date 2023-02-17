@@ -1,0 +1,1 @@
+verify(string,address,uint32[],uint32,bool,uint256,bytes)

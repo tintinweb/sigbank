@@ -1,0 +1,1 @@
+addContractDetails(address,uint256,uint8,string,string,uint256,address,uint32[],string,uint8)

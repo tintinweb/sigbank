@@ -1,0 +1,1 @@
+gettuple((string,bool,uint,int,address,bytes))

@@ -1,0 +1,1 @@
+mintSwapWithPermit((address,address,uint,address,uint[],address[][],address[]),uint256,uint8,bytes32,bytes32)

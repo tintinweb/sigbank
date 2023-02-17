@@ -1,0 +1,1 @@
+addMintingOffer(address,uint256,(address,uint)[],bool,address)

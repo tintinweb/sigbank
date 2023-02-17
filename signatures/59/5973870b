@@ -1,0 +1,1 @@
+setPrivAndAutoTxPool(uint8,address,bool,bool,uint256)

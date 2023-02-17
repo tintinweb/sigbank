@@ -1,0 +1,1 @@
+setERC1155Approval(address,address,address,bool)

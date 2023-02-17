@@ -1,0 +1,1 @@
+registerEvent(string,string,string,uint256,string[],uint8,address[])

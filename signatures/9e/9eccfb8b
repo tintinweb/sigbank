@@ -1,0 +1,1 @@
+delegateWithEIP1271(address,((bytes32,address,bool)[],uint256),bytes,uint8)

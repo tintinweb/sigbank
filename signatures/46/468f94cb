@@ -1,0 +1,1 @@
+checkIfTransactionIsAllowed(address,address,address,address,bytes4,bytes)

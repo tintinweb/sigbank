@@ -1,0 +1,1 @@
+setApprovalForAllContract(address,bool)

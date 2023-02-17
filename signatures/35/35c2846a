@@ -1,0 +1,1 @@
+registerUserWhitelist(address,address,bytes32[])

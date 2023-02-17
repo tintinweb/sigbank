@@ -1,0 +1,1 @@
+createSubscriptionTemplate(string,bool,(uint8,uint,uint),(uint8,uint,uint),address,address,bytes,address)

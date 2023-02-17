@@ -1,0 +1,1 @@
+receiveQuery(bytes,address,(uint32,address,bytes)[],address,bytes)

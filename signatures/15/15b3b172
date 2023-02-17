@@ -1,0 +1,1 @@
+setAirdropPermit(address,bytes4,bool)

@@ -1,0 +1,1 @@
+defineDuckStatus(uint8,string)

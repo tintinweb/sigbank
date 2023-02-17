@@ -1,0 +1,1 @@
+createIdentityBatch(bytes32,address[],uint8[],bytes32[])

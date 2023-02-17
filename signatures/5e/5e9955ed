@@ -1,0 +1,2 @@
+getRoundFutureBlock(uint256)
+setPriceCompensation(uint256)

@@ -1,0 +1,1 @@
+setWalletWhitelist(uint16,address[],bool)

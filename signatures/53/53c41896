@@ -1,0 +1,1 @@
+makeDataURI(string,uint256,address,string,string,bytes32[],bytes32[])

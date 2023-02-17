@@ -1,0 +1,1 @@
+verifyTypedMessage(address,bytes32,string,bytes)

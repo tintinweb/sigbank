@@ -1,0 +1,1 @@
+readStruct((string,uint16,uint256,bytes4,bool))

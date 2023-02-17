@@ -1,0 +1,1 @@
+issueNewContract(string,(string,string,string,uint256,string,string),(string,string,string,string,string,string),(address,string,address,uint256,uint256,string,string,string,string,string,string,bytes,bytes,address,string,bool,string,string),uint256)

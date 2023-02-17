@@ -1,0 +1,1 @@
+setClass(address,uint8)

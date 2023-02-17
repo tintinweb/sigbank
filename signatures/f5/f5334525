@@ -1,0 +1,1 @@
+bulk_import((uint32,uint,uint,uint,string)[])

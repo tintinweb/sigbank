@@ -1,0 +1,1 @@
+revokeDelegation(((address,bytes32,(address,bytes)[]),bytes))

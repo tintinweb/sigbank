@@ -1,0 +1,1 @@
+setAllowedFeeRecipient(address,bool)

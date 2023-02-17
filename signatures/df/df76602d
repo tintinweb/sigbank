@@ -1,0 +1,1 @@
+safeMultiBatchTransferFrom(address,address[],uint256[],uint256[],bytes)

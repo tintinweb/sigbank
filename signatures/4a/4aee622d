@@ -1,0 +1,1 @@
+getVoteInfoByAccountAndProposalId(address,uint256)

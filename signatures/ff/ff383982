@@ -1,0 +1,1 @@
+multiFiatMint((address,string,bytes32)[],bool)

@@ -1,0 +1,1 @@
+registerSalesFacet(uint16,bytes4,bytes4,bytes4,address)

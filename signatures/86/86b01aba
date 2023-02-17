@@ -1,0 +1,1 @@
+addFLUBatch((address,uint64,uint64,int256,address[],bool)[])

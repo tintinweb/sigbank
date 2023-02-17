@@ -1,0 +1,1 @@
+createBadgeContract(string,string,bool,uint256,address)

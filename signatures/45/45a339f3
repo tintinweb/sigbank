@@ -1,0 +1,1 @@
+addContract(string,uint8,uint32,uint32,uint32,bool,string,uint32,uint32,uint32,uint32,uint32,address)

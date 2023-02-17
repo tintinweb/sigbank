@@ -1,0 +1,1 @@
+authorizeMinting(uint32,address,string,string,uint256,bool)

@@ -1,0 +1,2 @@
+nuevoEmpleado(address)
+setExitCooldownDuration(uint256)

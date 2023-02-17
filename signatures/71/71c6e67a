@@ -1,0 +1,1 @@
+registerNewMerchandisingToSell(uint8,bytes32,bytes32,(string,string,string,address),string[],uint256[],uint256[],address[],uint64)

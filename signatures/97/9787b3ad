@@ -1,0 +1,1 @@
+emitERC1155TransferBatch(address,address,address,uint256[],uint256[])
