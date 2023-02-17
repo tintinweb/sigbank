@@ -14,7 +14,7 @@ Best effort, no guarantees on accuracy & completeness. Just signatures, lot's of
 
 ## 📈 Stats
 
-[Latest Snapshot](./releases)
+[Latest Snapshot](https://github.com/tintinweb/sigbank/releases)
 
 ```
 Date:                 Feb 17 2023
@@ -26,7 +26,7 @@ SignatureHash Collisions:     118
 
 ## 🎓 Getting Started
 
-Download the latest [Database Snapshot](./releases). Use your favorite `sqlite3` explorer/query tool to explore.
+Download the latest [Database Snapshot](https://github.com/tintinweb/sigbank/releases). Use your favorite `sqlite3` explorer/query tool to explore.
 
 <details>
   <summary style='font-size:12pt'>🔸 Lookup Sighashes starting with <code>0x000000..</code></summary>
