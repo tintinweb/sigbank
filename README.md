@@ -26,7 +26,7 @@ SignatureHash Collisions:     118
 
 ## 🎓 Getting Started
 
-Download the latest [Database Snapshot](https://github.com/tintinweb/sigbank/releases). Use your favorite `sqlite3` explorer/query tool to explore.
+Download the latest [Database Snapshot](https://github.com/tintinweb/sigbank/releases) (under 'Assets'). Use your favorite `sqlite3` explorer/query tool to explore.
 
 <details>
   <summary style='font-size:12pt'>🔸 Lookup Sighashes starting with <code>0x000000..</code></summary>
