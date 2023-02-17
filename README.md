@@ -2,8 +2,11 @@
 
 🏦 SigBank is a database of smart contract function signatures for the Ethereum ecosystem. It is based on the [🐦🌴🌴🌴🦕 smart-contract-sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) dataset. 
 
-Best effort, no guarantees on accuracy & completeness. Just signatures, lot's of signatures ...
 
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/2865694/219795455-9d20e054-17d9-466b-ab02-e98b5ab248d1.png">
+
+
+Best effort, no guarantees on accuracy & completeness. Just signatures, lot's of signatures ...
 
 → [What is a function signature and function selector in solidity (and EVM languages)](https://ethereum.stackexchange.com/questions/135205/what-is-a-function-signature-and-function-selector-in-solidity-and-evm-language).
 
@@ -33,6 +36,8 @@ SELECT sighash, signature
 FROM signatures
 WHERE sighash LIKE "000000%";
 ```
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/2865694/219795705-16e262b3-6a2d-4205-8aba-057f9088b48e.png">
+
 
 </details>
 
@@ -44,6 +49,8 @@ SELECT sighash, signature
 FROM signatures
 ORDER BY sighash;
 ```
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/2865694/219795654-80eb131b-12b2-4b2d-81ea-b31d0df208c5.png">
+
 
 </details>
 
@@ -60,6 +67,9 @@ GROUP by sighash
 HAVING cnt > 1
 order by cnt DESC
 ```
+
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/2865694/219795608-5e42c74d-f872-4cee-9c05-6b7636a06293.png">
+
 
 </details>
 
