@@ -9,7 +9,19 @@ Best effort, no guarantees on accuracy & completeness. Just signatures, lot's of
 
 &nbsp;
 
-## ▪ Getting Started
+## 📈 Stats
+
+[Latest Snapshot](./releases)
+
+```
+Date:                 Feb 17 2023
+Database Size:                 96 MB
+Distinct Signatures:       924244
+Distinct SignatureHashes:  924117
+SignatureHash Collisions:     118
+```
+
+## 🎓 Getting Started
 
 Download the latest [Database Snapshot](./releases). Use your favorite `sqlite3` explorer/query tool to explore.
 
