@@ -1,6 +1,6 @@
 # SigBank - A Database of Smart Contract Function Signatures
 
-SigBank is a database of smart contract function signatures for the Ethereum ecosystem. It is based on the [🐦🌴🌴🌴🦕 smart-contract-sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) dataset. 
+🏦 SigBank is a database of smart contract function signatures for the Ethereum ecosystem. It is based on the [🐦🌴🌴🌴🦕 smart-contract-sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) dataset. 
 
 Best effort, no guarantees on accuracy & completeness. Just signatures, lot's of signatures ...
 
