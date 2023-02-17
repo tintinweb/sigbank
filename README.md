@@ -89,7 +89,7 @@ here's an example:
 
 ```
 ⚡ ⇒ git clone --recursive --depth1 https://github.com/tintinweb/smart-contract-sanctuary
-⚡ ⇒ _utils/signaturesToDb.js "./smart-contract-sanctuary/**/*.sol" 
+⚡ ⇒ node _utils/signatures/signatures.js "./smart-contract-sanctuary/**/*.sol" 
 ```
 
 </details>
@@ -99,7 +99,7 @@ here's an example:
   <summary style='font-size:12pt'>🔸 How to dump the database into a well formed file-system structure?</summary>
 
 ```
-⚡ ⇒ _utils/exportToFs.js
+⚡ ⇒ node _utils/signatures/exportToFs.js
 ```
 
 </details>
