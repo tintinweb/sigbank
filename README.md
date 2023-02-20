@@ -111,13 +111,19 @@ here's an example:
 * [ethereum-lists/4bytes](https://github.com/ethereum-lists/4bytes)
 
 
+## 👩‍🔬 Data Science Tools
+
+* [🌟 Sourcegraph:sigbank](https://sourcegraph.com/github.com/tintinweb/sigbank) - A powerful online code search service that can be used to quickly search for hashes or signatures in sigbank.
+* [🌟 Sourcegraph:smart-contract-sanctuary](https://sourcegraph.com/search?q=context:global+repo:tintinweb/smart-contract-sanctuary*+file:/mainnet/&patternType=literal) - A powerful online code search service that can be used to search the sanctuary without cloning. 
+
+
 ## 🎓 Citation
 
 If you are using this dataset in your research and paper, here's how you can cite this dataset: 
 
 - APA6
 ```
-Ortner, M. (n.d.). SigBank - A Database of Smart Contract Function Signatures. Retrieved from https://github.com/tintinweb/sigbank.
+Ortner, M., Quelquejay, V. (n.d.). SigBank - A Database of Smart Contract Function Signatures. Retrieved from https://github.com/tintinweb/sigbank.
 ```
 
 - LateX (Bib)
@@ -125,5 +131,5 @@ Ortner, M. (n.d.). SigBank - A Database of Smart Contract Function Signatures. R
  @article{sigbank, 
           title={SigBank - A Database of Smart Contract Function Signatures}, 
           url={https://github.com/tintinweb/sigbank}, 
-          author={Ortner, Martin}} 
+          author={Ortner, Martin and Quelquejay, Valentin}} 
  ```
